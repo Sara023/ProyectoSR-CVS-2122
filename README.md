@@ -1,7 +1,7 @@
 ## *Prácticas con Git*
 Este es mi primer repositorio en GitHub.
 
-!.[https://images.app.goo.gl/N8UvW7CMEumtaZBv6]
+![Alt text](https://images.app.goo.gl/N8UvW7CMEumtaZBv6 "Github")
 
 1. Editaremos el archivo README.md
 2. Añadiremos una imagen.
