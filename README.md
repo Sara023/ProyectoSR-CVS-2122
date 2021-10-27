@@ -8,6 +8,5 @@ Este es mi primer repositorio en GitHub.
 3. Pondremos un enlace.
 
 * Pondremos una lista que no esté ordenada.
-* 
-* 
+* Y ya tendríamos nuestro archivo README.md editado.
 
